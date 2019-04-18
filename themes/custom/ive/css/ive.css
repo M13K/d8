@@ -1,0 +1,90 @@
+#header {
+    background-color: #fff;
+    background-image: none;
+}
+
+#header a{
+    color: #f4c242;
+}
+.site-branding__text{
+    font-size: 2rem;
+}
+
+.page-title {
+    font-size: 2rem;
+    color: #f4c242;
+    font-family: 'Impact';
+}
+
+.node--view-mode-teaser h2 a {
+    color: #f4c242;
+    text-decoration: none;
+}
+
+.sidebar .block {
+    background-color: #fff;
+    color: #f4c242;
+    border-color: #f9f9f9;
+    border: 0;
+}
+
+.sidebar h2 {
+    border-bottom: 1px solid #f4c242;
+    font-size: 2rem;
+}
+.region-drupal-8{
+    background-color: #f4c242;
+    max-width: 100%;
+    color: #fff;
+    text-align: justify;
+}
+.column{
+    float: left;
+    width: 50%;
+}
+
+.node_externalLink:after{
+    content: url("../images/external-link.gif");
+    display:inline-block;
+    width:16px;
+    height: 16px;
+}
+
+
+/* CORRIGE*/
+
+/*.site-branding__name {*/
+    /*font-size: 2rem;*/
+/*}*/
+
+/*.region-header .site-branding a {*/
+    /*color:orange;*/
+/*}*/
+
+/*#header {*/
+    /*!*  background-color: #fff;*/
+      /*background-image: none;*!*/
+    /*background : #fff;*/
+/*}*/
+
+/*.sidebar .block {*/
+    /*background-color: transparent;*/
+    /*border:0;*/
+/*}*/
+
+/*.sidebar .block h2 {*/
+    /*text-transform: uppercase;*/
+    /*font-style:italic;*/
+    /*font-weight:bold;*/
+    /*border-bottom:1px solid orange;*/
+    /*color:orange;*/
+/*}*/
+
+/*.path-frontpage .node--type-article h2  {*/
+    /*font-size: 2rem;*/
+    /*font-family: 'Impact';*/
+/*}*/
+
+/*.path-frontpage .node--type-article h2 a {*/
+    /*color:orange;*/
+/*}*/
